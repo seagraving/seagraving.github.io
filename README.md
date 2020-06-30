@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
-
-  <meta charset="UTF-8">
-  <title>Example Page</title>
-
-</head>
-
 <body>
 
   <h1>This is a header 1</h1>
